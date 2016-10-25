@@ -37,7 +37,7 @@ Why use React Native?
 
 
 - Write JavaScript, get native-feeling apps
-- Noone can tell the difference*
+- No-one can tell the difference*
 - Reuse 80% of the code across platforms
 - Deploy small changes instantly (no App store approval)
 - Fast development
@@ -45,7 +45,7 @@ Why use React Native?
 Why not use React Native?
 =========================
 
-- If your app is super graphics heavey / performance is an issue (games)
+- If your app is super graphics heavy / performance is an issue (games)
 - If you don't care how your apps look
 - If you think Cocoa is more fun the JavaScript
 - If you want to sue Facebook
